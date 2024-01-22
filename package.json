@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/viananicolas/angular-x-star-rating"
+    "url": "git+https://github.com/viananicolas/angular-x-star-rating.git"
   },
   "scripts": {
     "ng": "ng",
@@ -45,7 +45,7 @@
     "package": "npm run build_lib && npm run npm_pack",
     "ci:test": "ng test --code-coverage"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^17.1.0",
     "@angular/common": "^17.1.0",
