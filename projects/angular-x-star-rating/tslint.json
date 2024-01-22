@@ -10,7 +10,7 @@
     "component-selector": [
       true,
       "element",
-      "ngx-rating",
+      "angular-x-star-rating",
       "kebab-case"
     ]
   }

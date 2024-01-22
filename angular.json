@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/angular-x-star-rating",
       "sourceRoot": "projects/angular-x-star-rating/src",
-      "prefix": "ngx-rating",
+      "prefix": "angular-x-star-rating",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
